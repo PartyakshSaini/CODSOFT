@@ -1,2 +1,4 @@
 # CODSOFT2
-portfolio 
+
+portfolio
+![Preview](images/web1.jpg)
